@@ -157,3 +157,5 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 - **-18.4L Diesel Fuel Saved Per Shift:** Traveling Salesperson route optimization eliminates redundant collection loops.
 - **Sub-3 Minute Emergency Dispatch:** Automated corridor clearance connects nearest EMS units without manual dispatch delays.
 - **Instant Civic Engagement:** Residents receive AI-verified updates within seconds instead of waiting days for municipal routing.
+#   c i t y P u l s e - A I  
+ 
